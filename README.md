@@ -39,8 +39,6 @@ A high-performance, native Windows desktop system telemetry monitor and optimiza
 SysCmon/
 ├── assets/
 │   └── SysCmon.ico             # Application icon resource
-├── docs/
-│   └── screenshots/            # UI documentation previews
 ├── installer/
 │   └── installer.c             # Self-extracting Windows installer source
 ├── src/
@@ -57,7 +55,6 @@ SysCmon/
 │   └── qa_test.c               # Automated headless regression test suite (96 checks)
 ├── build.bat                   # Compilation batch script (MinGW GCC)
 ├── run.bat                     # Launch script
-├── memory.md                   # Development history and engineering log
 ├── LICENSE                     # MIT License
 ├── .gitignore                  # Git ignore rules
 └── README.md                   # Project documentation
