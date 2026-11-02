@@ -10,17 +10,6 @@ A high-performance, native Windows desktop system telemetry monitor and optimiza
 
 ---
 
-## 📸 Screenshots
-
-| Solid Modern Matte (Default) | High-End Frosted Glassmorphism |
-| :---: | :---: |
-| ![Solid Matte](docs/screenshots/qa_render_solid_matte.png) | ![Frosted Glass](docs/screenshots/qa_render_glass_cyan.png) |
-
-| Settings & Personalization Modal | Work In Progress Modules |
-| :---: | :---: |
-| ![Settings Modal](docs/screenshots/qa_render_settings_modal.png) | ![WIP Modules](docs/screenshots/qa_render_wip.png) |
-
----
 
 ## ✨ Key Features
 
